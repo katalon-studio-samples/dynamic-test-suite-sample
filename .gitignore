@@ -1,0 +1,16 @@
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
+/Reports
+/.project
+/.gradle/
+/Drivers/
+Drivers/*.jar
+ci-samples.zip
+settings/internal/com.kms.katalon.integration.analytics.properties
+.gradle
+build
+.DS_Store
+Plugins
