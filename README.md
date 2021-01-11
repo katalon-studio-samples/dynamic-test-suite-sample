@@ -15,10 +15,11 @@ Create whatever test cases you want (in the [sample project](https://github.com/
 
     - Id, name, tag, comment, description (Check this [link](https://docs.katalon.com/katalon-studio/docs/test-suite.html#dynamic-test-suite-dynamic-test-cases-list) for more details)
 - ***Step 4***: Click ***Preview*** to check
-- ***Step 5***: Click button  ![Run Button](Docs/RunButton.png)
+- ***Step 5***: Click button  ![Run Button](Docs/RunButton.png) to execute
 
 ![Setup the Dynamic Test Suite](Docs/Figure1.png)
 <center>Figure 1: Setup the Dynamic Test Suite</center>
+
 ## Setup the execution with query passing from CLI for executing several tests cases
 - ***Step 1***: Generate Katalon command for the Dynamic Test Suite *(Figure 2)* > Go to KRE folder > Open Command Line or Terminal > Paste the generated command.
 - ***Step 2***: Add into command the parameter -testSuiteQuery *(Figure 3)*.
@@ -32,6 +33,7 @@ Create whatever test cases you want (in the [sample project](https://github.com/
 
 ![Setup the Dynamic Test Suite](Docs/Figure3.png)
 <center>Figure 3: Run KRE Command</center>
+
 ## Preferences
 [Basic Search For Dynamic Test Suite](https://store.katalon.com/product/2/Basic-Search-For-Dynamic-Test-Suite)
 [Test Case Management with Tags](https://store.katalon.com/product/6/Test-Case-Management-with-Tags)
